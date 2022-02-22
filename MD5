@@ -1,0 +1,16 @@
+365110b73886b5dfa62061505d6c7027 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+64fcd32995ba04bfa14e34d32e9c2519 *NEWS.md
+2004a404fe9e52da8d729b4f80d6dc9a *R/concerts.R
+45cdef60f4877d4c91232dd33420e148 *R/setlists.R
+d86b0058d15ce87af5d3502a9b61bf87 *R/songs.R
+592cb0d7095cc67851126166855a9e6a *R/tours.R
+bc9661638bc52c61800827e1d7ff2b09 *README.md
+1cce83e5d2b31ba5e59f8e79eda87f27 *data/concerts.rda
+8050d46e9aba3a08be1fddc9f5fbb313 *data/setlists.rda
+bb5b2c61cb875946de0ce5f1108056ea *data/songs.rda
+25d5e410aa07f2008a8099bc0f40a472 *data/tours.rda
+055cbbcc53c2b17c18c14e55181b33f9 *man/concerts.Rd
+3bffd80940440834493cba73af94f48f *man/setlists.Rd
+5273ab873e15bead0b6a6f19666018cc *man/songs.Rd
+d889e5c9234045ef31620f75490ab422 *man/tours.Rd
